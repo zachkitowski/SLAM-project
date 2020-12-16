@@ -9,9 +9,10 @@ Run the command
   
 ### Video to image 
 Run the command 
-   '''bash 
+
+   ```bash
    Videotofile.py cam1v2.mov cam1v2 
-   ''' 
+   ```
 
 ### DSO
 1. Build DSO, full instructions can be found here: https://github.com/JakobEngel/dso
