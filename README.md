@@ -22,7 +22,7 @@ Run the command
    ```
   
 ### ORB-SLAM3
-1. Install all the required packages and build ORB-SLAM3  
+1. Install all the required packages and build ORB-SLAM3, full instructions can be found here: https://github.com/UZ-SLAMLab/ORB_SLAM3
 2. Run the command  
    ```bash
    ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/the_calibration_file 
