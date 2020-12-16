@@ -14,6 +14,14 @@ Run the command
 Videotofile.py cam1v2.mov cam1v2 
 ```
 
+### Make Timestamp Text File
+Edit the folder name within this file to map to the folder with all of the images and the output text file name. 
+Run the command 
+
+```bash
+make_image_list.py 
+```
+
 ### DSO
 1. Build DSO, full instructions can be found here: https://github.com/JakobEngel/dso
 2. Run the command
