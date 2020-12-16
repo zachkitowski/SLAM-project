@@ -6,13 +6,13 @@
     calibrate.py cam1v2
     
     cam1v2: Folder where images for calibration go 
-### DSO:
+### DSO
 
     ```bash
     bin/dso_dataset files=[path_to_images_folder] calib=[path_to_camera_calibration] preset=0 mode=1
     ```
 
-ORB-SLAM3  
+### ORB-SLAM3
 1. Install all the required packages and build ORB-SLAM3  
 2. Run the command  
     ```bash
