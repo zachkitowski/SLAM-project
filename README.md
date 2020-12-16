@@ -8,8 +8,10 @@ In order to run DSO:
 ORB-SLAM3  
 1. Install all the required packages and build ORB-SLAM3  
 2. Run the command  
-./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/the_calibration_file the_dataset_file ./Examples/Monocular/EuRoC_TimeStamps/the_timestamp_file  
-  
+    ```bash
+    ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/the_calibration_file 
+    the_dataset_file ./Examples/Monocular/EuRoC_TimeStamps/the_timestamp_file  
+    ```
 the_dataset_file: where you put the dataset  
 the_calibraiton_file: JM_Cam1/2/3_calibration.yaml  
-the_timestamp_file: depends on which videos you run  
+the_timestamp_file: depends on which videos you run
