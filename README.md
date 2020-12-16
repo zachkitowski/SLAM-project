@@ -5,8 +5,15 @@ Run the command
    ```bash
    calibrate.py cam1v2  
    ```
-  cam1v2: Folder where images for calibration go 
+   cam1v2: Folder where images for calibration go 
   
+### Video to image 
+Run the command 
+
+   ```bash
+   Videotofile.py cam1v2.mov cam1v2 
+   ```
+
 ### DSO
 1. Build DSO, full instructions can be found here: https://github.com/JakobEngel/dso
 2. Run the command
@@ -15,7 +22,7 @@ Run the command
    ```
   
 ### ORB-SLAM3
-1. Install all the required packages and build ORB-SLAM3  
+1. Install all the required packages and build ORB-SLAM3, full instructions can be found here: https://github.com/UZ-SLAMLab/ORB_SLAM3
 2. Run the command  
    ```bash
    ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/the_calibration_file 
