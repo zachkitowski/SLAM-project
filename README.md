@@ -3,7 +3,7 @@
 ### Camera Calibration 
 Run the command
    ```bash
-   calibrate.py cam1v2
+   calibrate.py cam1v2  
    ```
    cam1v2: Folder where images for calibration go 
   
