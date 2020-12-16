@@ -1,19 +1,18 @@
 # SLAM-project
 
 ### Camera Calibration 
-Run the command
+Run the command  
    ```bash
    calibrate.py cam1v2  
    ```
    cam1v2: Folder where images for calibration go 
   
 ### Video to image 
-Run the command 
-
+Run the command  
    ```bash
    Videotofile.py cam1v2.mov cam1v2 
    ```
-
+  
 ### DSO
 1. Build DSO, full instructions can be found here: https://github.com/JakobEngel/dso
 2. Run the command
