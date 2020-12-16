@@ -12,6 +12,6 @@ ORB-SLAM3
     ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/the_calibration_file 
     the_dataset_file ./Examples/Monocular/EuRoC_TimeStamps/the_timestamp_file  
     ```
-the_dataset_file: where you put the dataset  
-the_calibraiton_file: JM_Cam1/2/3_calibration.yaml  
-the_timestamp_file: depends on which videos you run
+    the_dataset_file: where you put the dataset  
+    the_calibraiton_file: JM_Cam1/2/3_calibration.yaml  
+    the_timestamp_file: depends on which videos you run
