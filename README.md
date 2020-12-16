@@ -8,7 +8,7 @@ Run the command
   cam1v2: Folder where images for calibration go 
   
 ### DSO
-1. Build DSO
+1. Build DSO, full instructions can be found here: https://github.com/JakobEngel/dso
 2. Run the command
    ```bash
    bin/dso_dataset files=[path_to_images_folder] calib=[path_to_camera_calibration] preset=0 mode=1
