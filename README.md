@@ -1,5 +1,4 @@
-# SLAM-project
-
+# Investigating Monocular SLAM Algorithms
 ### Camera Calibration 
 Run the command
 ```bash
